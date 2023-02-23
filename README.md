@@ -11,7 +11,7 @@ AUGNairobi is an award-winning nonprofit dedicated to democratizing Hardware dev
 [linktree](https://linktr.ee/augnairobi)
 
 
-You don't necessarily have to be located in Tokyo to join MLT. We provide online videos, code and resources on [YouTube](https://www.youtube.com/@augnairobi) and [GitHub](https://github.com/augnairobi).
+You don't necessarily have to be located in Nairobi to join AUGNairobi. We provide online videos, code and resources on [YouTube](https://www.youtube.com/@augnairobi) and [GitHub](https://github.com/augnairobi).
 
 **AUGNairobi Patron**: Become a AUGNairobi Patron and help us to keep AUGNAirobi meetups inclusive and for free. reach us at augnairobi@gmail.com
 
@@ -36,7 +36,7 @@ There are many ways to collaborate with AUGNairobi on open education, open sourc
 
 AUGNairobi promotes an inclusive environment that values integrity, openness and respect. 
 
-We are committed to a supportive study and work environment for our community members and the MLT core team, and to provide the opportunity for individuals to reach their fullest potential. 
+We are committed to a supportive study and work environment for our community members and the AUGNairobi core team, and to provide the opportunity for individuals to reach their fullest potential. 
 
 We aim to create a community culture that is collaborative, inclusive and empowering and therefore free of intimidation, bias and discrimination. Thus, we do not tolerate harassment and discrimination of members and participants in any form. 
 
