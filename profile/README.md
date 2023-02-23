@@ -8,8 +8,8 @@ AUGNairobi is an award-winning nonprofit dedicated to democratizing Hardware dev
 ## How to join AUG
 **AUGNairobi Community Members:** Anyone can become part of the Arduino User Group Nairobi community by joining one of our online platforms:
 
-[Click here for online platforms](https://linktr.ee/augnairobi)
-[Check out for upcoming events](https://www.eventbrite.co.uk/o/arduino-user-group-nairobiaugnairobi-55172290383)
+ - [Click here for online platforms](https://linktr.ee/augnairobi)
+ - [Check out for upcoming events](https://www.eventbrite.co.uk/o/arduino-user-group-nairobiaugnairobi-55172290383)
 
 
 You don't necessarily have to be located in Nairobi to join AUGNairobi. We provide online videos, code and resources on [YouTube](https://www.youtube.com/@augnairobi) and [GitHub](https://github.com/augnairobi).
