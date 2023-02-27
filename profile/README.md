@@ -1,4 +1,4 @@
-# AUGNairobi Starter Kit
+# AUGNairobi 
 
 ## Overview
 **Mission: Democratizing Hardware Development.**
