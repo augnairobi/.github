@@ -14,7 +14,7 @@ AUGNairobi is an award-winning nonprofit dedicated to democratizing Hardware dev
 
 You don't necessarily have to be located in Nairobi to join AUGNairobi. We provide online videos, code and resources on [YouTube](https://www.youtube.com/@augnairobi) and [GitHub](https://github.com/augnairobi).
 
-**AUGNairobi Patron**: Become a AUGNairobi Patron and help us to keep our meetups inclusive and for free. reach us at [<kbd>Email</kbd>](augnairobi@gmail.com)
+**AUGNairobi Support**: Become a AUGNairobi Supporter and help us to keep our meetups inclusive and for free. reach us at [Email](augnairobi@gmail.com)
 
 **AUGNairobi Core Team:** The AUGNairobi Core Team currently consists of volunteers members in Nairobi. We are in charge of technical workshops, paper readings, online resources, working sessions, study groups and building specific IoT projects. 
 
@@ -28,7 +28,7 @@ You don't necessarily have to be located in Nairobi to join AUGNairobi. We provi
 
 ## Collaborations with companies and research institutions
 
-There are many ways to collaborate with AUGNairobi on open education, open source or open science projects. Reach out to [<kbd>Email</kbd>](augnairobi@gmail.com) to discuss more.
+There are many ways to collaborate with AUGNairobi on open education, open source or open science projects. Reach out to [Email](augnairobi@gmail.com) to discuss more.
 
 **You're looking for technical talent?** We have a strict no-recruiting policy within AUGNairobi community. However, if you'd like to let the community know about open positions in your company or organization, please use the [AUGNairobi Job Board](<kbd>coming soon</kbd>) and members who are interested in new career opportunities will apply through that channel.
 
