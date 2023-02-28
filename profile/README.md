@@ -3,7 +3,10 @@
 ## Overview
 **Mission: Democratizing Hardware Development.**
 
-AUGNairobi is an award-winning nonprofit dedicated to democratizing Hardware development through open education, open source and open science. AUNairobi supports a research and engineering community.
+Arduino User Group Nairobi. A home to makers, where we are promoting the [Arduino](https://www.arduino.cc/) values while spreading the open-source philosophy.
+
+Democratizing Hardware development through open education, open source and open science.
+
 
 ## How to join AUG
 **AUGNairobi Community Members:** Anyone can become part of the Arduino User Group Nairobi community by joining one of our online platforms:
