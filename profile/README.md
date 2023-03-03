@@ -27,8 +27,6 @@ You don't necessarily have to be located in Nairobi to join AUGNairobi. We provi
 
 **Open Source contributions**: For most of our projects we use the [MIT license](https://en.wikipedia.org/wiki/MIT_License), unless otherwise stated. The copyright always belongs to the individual authors/contributors – we encourage you to add your names to the license when you work on a codebase.
 
-**Want to organize an AUGNairobi event in your city?** Reach out to augnairobi to discuss more.
-
 ## Collaborations with companies and research institutions
 
 There are many ways to collaborate with AUGNairobi on open education, open source or open science projects. Reach out to [Email](augnairobi@gmail.com) to discuss more.
